@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 strong {
-  font-weight: 150;
+  font-weight: 150000;
   color: #064;
   
 header {
@@ -20,5 +20,5 @@ header {
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  min-height: 76px;
+  min-height: 3000px;
 
